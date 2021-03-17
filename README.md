@@ -2,12 +2,10 @@
 
 I'm ChenCheng, an Front-End Programmer at Alipay.
 
-![](https://visitor-badge.glitch.me/badge?page_id=sorrycc.sorrycc)
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [umijs](https://github.com/umijs/umi)
 - 📫 How to reach me: sorrycc#gmail.com
+
+![](https://visitor-badge.glitch.me/badge?page_id=sorrycc.sorrycc)
 
 ### Github Stats
 
