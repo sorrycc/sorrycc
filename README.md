@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm ChenCheng, an Front-End Programmer at Alipay.
+I'm ChenCheng, a Front-End Programmer at Alipay.
 
 - 🔭 I’m currently working on [umijs](https://github.com/umijs/umi)
 - 📫 How to reach me: sorrycc#gmail.com
