@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I'm ChenCheng, a Front-End Programmer at Alipay.
+I'm ChenCheng (云谦) , a Front-End Programmer at Alipay.
 
-- 🔭 I’m currently working on [umijs](https://github.com/umijs/umi)
+- 🔭 I'm currently working on [umijs](https://github.com/umijs/umi)
+- I'm also the author of [dva](https://github.com/dvajs/dva), [babel-plugin-import](https://github.com/ant-design/babel-plugin-import), [father](https://github.com/umijs/father) and other libraries
+- I've been at Alibaba for 13 years
+- I graduated from Zhejiang University
 - 📫 How to reach me: sorrycc#gmail.com
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sorrycc.sorrycc)
