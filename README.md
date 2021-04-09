@@ -8,7 +8,7 @@ I'm ChenCheng (云谦) , a Front-End Programmer at Alipay.
 - 🍎 I graduated from Zhejiang University
 - 🍑 How to reach me: sorrycc#gmail.com
 
-![](https://visitor-badge.glitch.me/badge?page_id=sorrycc.sorrycc)
+More details on [sorrycc.com](https://sorrycc.com/).
 
 ### Github Stats
 
