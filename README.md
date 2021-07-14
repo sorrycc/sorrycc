@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sorrycc/count.svg" />
-</p>
-
 I'm ChenCheng (云谦) .
 
 - 🍒 Developer at Alipay(, have been at Alibaba for 13 years)
