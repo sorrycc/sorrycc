@@ -9,6 +9,6 @@ I'm ChenCheng (云谦) .
 - 🍎 Mission: **Make Developer Happier**（让开发者有笑容）
 - 📍 杭州
 - 👨‍🎓 ZJU
-- 🍑 公众号：「云谦」
+- 🍑 公众号：「云谦和他的朋友们」
 
 More details on [sorrycc.com](https://sorrycc.com/).
