@@ -10,5 +10,6 @@ I'm ChenCheng (云谦) .
 - 📍 杭州
 - 👨‍🎓 ZJU
 - 🍑 公众号：「云谦和他的朋友们」
+- 🌍 知识星球：「[云谦的前端日更星球](https://zsxq.sorrycc.com/)」
 
 More details on [sorrycc.com](https://sorrycc.com/).
