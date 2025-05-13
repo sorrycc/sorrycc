@@ -1,16 +1,6 @@
 
 Hi 👋，我是[陈成（云谦）](https://twitter.com/chenchengpro)。
 
-## 关于
-
-📛 花名「云谦」，网上 id「sorrycc」，真名「陈成」，也可以叫我「CC」  
-👨‍👩‍👦‍👦 男、两娃、现居杭州  
-🤲 35+、ZJU、P8、热爱代码、工具、单机游戏、分享和写作  
-💼 2008 年加入淘宝，开启在阿里和蚂蚁的打工之路  
-🐜 目前是蚂蚁一线前端，负责中后台前端框架 Bigfish  
-🖥️ 开源爱好者，是 [umi](https://github.com/umijs)、[dva](https://github.com/dvajs/dva)、[babel-plugin-import](https://github.com/umijs/babel-plugin-import)、[father](https://github.com/umijs/father)、[awesome-javascript](https://github.com/sorrycc/awesome-javascript) 等库的作者  
-🦀 今年在开发 Mako，基于 Rust 的构建工具，目前尚未开源
-
 ## 如何找到我
 
 📡 [博客](https://sorrycc.com/)，包含写过的所有文章，支持 [RSS](https://sorrycc.com/feed/) 订阅  
