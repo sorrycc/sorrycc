@@ -9,9 +9,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 > Building frontend infra and AI dev tools. 15+ years shipping, still curious.
 
@@ -51,7 +48,7 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@sorryccxx-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sorryccxx)
+[![Twitter](https://img.shields.io/badge/-@chenchengpro-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/chenchengpro)
 [![Blog](https://img.shields.io/badge/-blog.sorrycc.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://blog.sorrycc.com)
 [![RSS](https://img.shields.io/badge/-RSS-FFA500?style=flat-square&logo=rss&logoColor=white)](https://blog.sorrycc.com/api/feed)
 [![Email](https://img.shields.io/badge/-sorrycc@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sorrycc@gmail.com)
