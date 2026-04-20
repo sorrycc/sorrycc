@@ -43,11 +43,6 @@
 - [635 - 《Release Sokki：因为 Espanso 把我原文吃了》](https://blog.sorrycc.com/release-sokki)
 - [634 - 《Release Shun：macOS 全局快捷键切换应用》](https://blog.sorrycc.com/release-shun)
 - [633 - 《我的前半生流水账》](https://blog.sorrycc.com/life-timeline)
-- [632 - 《装了啥 2026》](https://blog.sorrycc.com/zhuang-2026)
-- [631 - 《也聊 Harness》](https://blog.sorrycc.com/on-harness)
-- [630 - 《一场 10 分钟的发布会，我和 Claude 聊了 20 多轮》](https://blog.sorrycc.com/10min-launch-with-claude)
-- [629 - 《从 ZeroTier 切到 Tailscale：自建 DERP 中继踩坑记》](https://blog.sorrycc.com/zerotier-to-tailscale-derp)
-- [628 - 《不写代码的程序员 - 我怎么用 AI 编程 2026.03》](https://blog.sorrycc.com/programmer-without-code)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect

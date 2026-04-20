@@ -16,5 +16,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.sorrycc.com/api/feed"
-          max_post_count: 10
+          max_post_count: 5
           commit_message: "chore: update latest blog posts"
