@@ -1,24 +1,48 @@
+# Hi, I'm sorrycc 👋
 
-## 关于我
+📍 **Hangzhou, China** | 🐜 **Ant Group** | 🛠️ **OSS maintainer**
 
-<img src="https://avatars.githubusercontent.com/u/35128" style="width:120px;height:120px;margin:2rem 0;padding:0;" />
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-Hi，我是陈成，花名云谦，网上 id「sorrycc」，你也可以喊我「CC」。我 2008 年加入淘宝，2013 年转岗支付宝，目前 35+ 程序员，一线开发者，IC，P8。ZJU 校友。热爱编程、开源、分享和写作。
+> Building frontend infra and AI dev tools. 15+ years shipping, still curious.
 
-我之前一直负责前端的工具和框架，是 [umi](https://github.com/umijs)、[dva](https://github.com/dvajs/dva)、[Mako](https://makojs.dev/)、[babel-plugin-import](https://github.com/umijs/babel-plugin-import)、[father](https://github.com/umijs/father)、[awesome-javascript](https://github.com/sorrycc/awesome-javascript)、[TNF](https://github.com/umijs/tnf) 等库的作者。今年转做 AI，写 Code Agent，开源了 [Neovate Code](https://github.com/neovateai/neovate-code) 。同时业余时间也有维护一个 AI 日刊 [modelwatch.dev](https://modelwatch.dev/)，欢迎订阅。
+## Current Projects
 
-除了这里，你还可以在 [X](https://twitter.com/chenchengpro)、[Telegram 频道](https://t.me/yqtalk)（碎碎念、更新频繁）、[B 站](https://space.bilibili.com/27472034)、[抖音](https://www.douyin.com/user/MS4wLjABAAAAgTvjPGcUQlTCXEwhUGMmYsiShXHhY6GWjOxVsk3qQFw?relation=0&vid=7402640553613069578) 和 [Github](https://github.com/sorrycc) 找到我。如果你想联系我，也可以用邮箱 <img src="https://img.alicdn.com/imgextra/i4/O1CN01ltwEFV1qnN7YwxY3F_!!6000000005540-2-tps-502-77.png" style="width:137px;height:21px;display:inline-block;vertical-align:middle;margin:0;padding:0;" /> 。
+- ⚡ **[Shun](https://blog.sorrycc.com/release-shun)** - macOS menu bar tool to switch apps via global hotkeys
+- ⌨️ **[Sokki](https://blog.sorrycc.com/release-sokki)** - macOS menu bar text expansion tool
+- 📰 **[NewsNow](https://github.com/sorrycc/newsnow)** - Read the world's trending news in one glance
 
-## 最近更新
+### Legacy Work
 
-以下是最近更新的 8 篇文章，详见 [./archive](https://sorrycc.com/archive) 。
+- 🤖 **[Neovate Code](https://github.com/neovateai/neovate-code)** - AI coding agent that works with your codebase
+- 🖥️ **[Neovate Desktop](https://github.com/neovateai/neovate-desktop)** - Desktop app for Neovate Code
+- 🚀 **[UmiJS](https://github.com/umijs/umi)** - Pluggable enterprise-level React framework
+- ⚡ **[Mako](https://github.com/umijs/mako)** - Rust-based web bundler, fast and production-ready
+- 📦 **[Father](https://github.com/umijs/father)** - NPM library toolkit based on Rollup, esbuild and Babel
+- 🐉 **[dva](https://github.com/dvajs/dva)** - Lightweight React + Redux + Saga framework
 
-- `12/15/25` [614 - 《最近买的东西们（8）》](https://sorrycc.com/buy-08)
-- `12/15/25` [613 - 《我怎么用 AI 编程 2025.12》](https://sorrycc.com/how-i-use-ai-programming-2025-12)
-- `12/15/25` [612 - 《AI 羊毛 03》](https://sorrycc.com/ai-wool-03)
-- `12/03/25` [译：AI 如何改变 Anthropic 的工作方式](https://sorrycc.com/how-ai-is-transforming-work-at-anthropic)
-- `12/02/25` [译：万亿美元的 AI 软件开发技术栈](https://sorrycc.com/the-trillion-dollar-ai-software-development-stack)
-- `12/02/25` [611 - 《AI 羊毛 02：Antigravity、AI Studio、Cerebras、IFlow、Poe、Github Copilot》](https://sorrycc.com/ai-wool-02-antigravity-ai-studio-cerebras-iflow-poe-github-copilot)
-- `12/01/25` [译：如何写好一个 CLAUDE.md](https://sorrycc.com/how-to-write-a-good-claude-md)
-- `11/28/25` [610 - 《Neovate Code 开发笔记 04：Antigravity Povider 和 AI SDK Provider》](https://sorrycc.com/neovate-code-04-antigravity-provider-and-ai-sdk-provider)
-- `11/28/25` [609 - 《AI 羊毛 01：Google 学生、Google 账号、ChatGPT Team》](https://sorrycc.com/ai-yang-mao-01)
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/sorrycc)
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@sorryccxx-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sorryccxx)
+[![Blog](https://img.shields.io/badge/-blog.sorrycc.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://blog.sorrycc.com)
+[![RSS](https://img.shields.io/badge/-RSS-FFA500?style=flat-square&logo=rss&logoColor=white)](https://blog.sorrycc.com/api/feed)
+[![Email](https://img.shields.io/badge/-sorrycc@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sorrycc@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sorrycc)
