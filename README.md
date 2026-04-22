@@ -38,11 +38,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [638 - 《编写 AI Agent 友好的 CLI》](https://blog.sorrycc.com/agent-friendly-cli)
 - [637 - 《AI 时代的工程师团队》](https://blog.sorrycc.com/ai-era-engineering-team)
 - [636 - 《Claude Code 账号》](https://blog.sorrycc.com/claude-code-account)
 - [635 - 《Release Sokki：因为 Espanso 把我原文吃了》](https://blog.sorrycc.com/release-sokki)
 - [634 - 《Release Shun：macOS 全局快捷键切换应用》](https://blog.sorrycc.com/release-shun)
-- [633 - 《我的前半生流水账》](https://blog.sorrycc.com/life-timeline)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
