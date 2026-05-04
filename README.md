@@ -38,7 +38,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [645 - 《Release codexthropic：让 Claude Code 跑 GPT-5.5》](https://blog.sorrycc.com/release-codexthropic)
+- [641 - 《Release codexthropic：让 Claude Code 跑 GPT-5.5》](https://blog.sorrycc.com/release-codexthropic)
 - [640 - 《Multica》](https://blog.sorrycc.com/multica)
 - [639 - 《从想法到上线，一到两天》](https://blog.sorrycc.com/ai-era-product-development)
 - [638 - 《编写 AI Agent 友好的 CLI》](https://blog.sorrycc.com/agent-friendly-cli)
