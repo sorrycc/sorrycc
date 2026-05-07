@@ -40,11 +40,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [644 - 《Awesome Skills &amp; Plugins》](https://blog.sorrycc.com/awesome-skills-plugins)
 - [643 - 《Release Helm》](https://blog.sorrycc.com/release-helm)
 - [642 - 《如何自动发布 npm 包》](https://blog.sorrycc.com/auto-publish-npm)
 - [641 - 《Release codexthropic：让 Claude Code 跑 GPT-5.5》](https://blog.sorrycc.com/release-codexthropic)
 - [640 - 《Multica》](https://blog.sorrycc.com/multica)
-- [639 - 《从想法到上线，一到两天》](https://blog.sorrycc.com/ai-era-product-development)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
