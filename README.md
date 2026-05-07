@@ -38,11 +38,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [643 - 《Release Helm》](https://blog.sorrycc.com/release-helm)
 - [642 - 《如何自动发布 npm 包》](https://blog.sorrycc.com/auto-publish-npm)
 - [641 - 《Release codexthropic：让 Claude Code 跑 GPT-5.5》](https://blog.sorrycc.com/release-codexthropic)
 - [640 - 《Multica》](https://blog.sorrycc.com/multica)
 - [639 - 《从想法到上线，一到两天》](https://blog.sorrycc.com/ai-era-product-development)
-- [638 - 《编写 AI Agent 友好的 CLI》](https://blog.sorrycc.com/agent-friendly-cli)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
