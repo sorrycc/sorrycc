@@ -40,11 +40,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [679 - 《我怎么用 AI 编程 2026.06》](https://blog.sorrycc.com/ai-coding-2026-06)
+- [650 - 《Claude Code 笔记：Goal》](https://blog.sorrycc.com/claude-code-goal)
+- [649 - 《我怎么用 AI 编程 2026.06》](https://blog.sorrycc.com/ai-coding-2026-06)
 - [648 - 《Claude Code 笔记：Dynamic Workflow》](https://blog.sorrycc.com/claude-code-dynamic-workflow)
 - [647 - 《Claude Code 笔记：Worktree》](https://blog.sorrycc.com/claude-code-worktree)
 - [646 - 《Helm：为超级个体打造的 AI Harness》](https://blog.sorrycc.com/helm-harness-for-super-individuals)
-- [645 - 《最近买的东西们（9）》](https://blog.sorrycc.com/buy-09)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
