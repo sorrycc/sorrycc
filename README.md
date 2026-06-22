@@ -40,11 +40,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [654 - 《Deep Research：Loop Engineering 最佳实践》](https://blog.sorrycc.com/deepresearch-loop-engineering)
+- [653 - 《Deep Research：Claude Code Dynamic Workflow 最佳实践》](https://blog.sorrycc.com/deepresearch-claude-code-dynamic-workflow)
+- [651 - 《Claude Code 笔记：Fork &amp; Branch》](https://blog.sorrycc.com/claude-code-fork-branch)
+- [652 - 《Loop Engineering》](https://blog.sorrycc.com/loop-engineering)
 - [650 - 《Claude Code 笔记：Goal》](https://blog.sorrycc.com/claude-code-goal)
-- [649 - 《我怎么用 AI 编程 2026.06》](https://blog.sorrycc.com/ai-coding-2026-06)
-- [648 - 《Claude Code 笔记：Dynamic Workflow》](https://blog.sorrycc.com/claude-code-dynamic-workflow)
-- [647 - 《Claude Code 笔记：Worktree》](https://blog.sorrycc.com/claude-code-worktree)
-- [646 - 《Helm：为超级个体打造的 AI Harness》](https://blog.sorrycc.com/helm-harness-for-super-individuals)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
