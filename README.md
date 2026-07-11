@@ -40,11 +40,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [656 - 《科学上网》](https://blog.sorrycc.com/gfw-2026)
 - [655 - 《Anthropic 反蒸馏机制》](https://blog.sorrycc.com/anthropic-anti-distillation)
 - [654 - 《Deep Research：Loop Engineering 最佳实践》](https://blog.sorrycc.com/deepresearch-loop-engineering)
 - [653 - 《Deep Research：Claude Code Dynamic Workflow 最佳实践》](https://blog.sorrycc.com/deepresearch-claude-code-dynamic-workflow)
 - [651 - 《Claude Code 笔记：Fork &amp; Branch》](https://blog.sorrycc.com/claude-code-fork-branch)
-- [652 - 《Loop Engineering》](https://blog.sorrycc.com/loop-engineering)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
