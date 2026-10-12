@@ -1,6 +1,6 @@
 # Hi, I'm sorrycc 👋
 
-📍 **Hangzhou, China** | 🐜 **Ant Group** | 🛠️ **OSS maintainer**
+📍 **Hangzhou, China** | 🐜 **[Qoder](https://qoder.com/) @ Alibaba** | 🛠️ **OSS maintainer**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -18,7 +18,9 @@
 
 ## Current Projects
 
-- ⛵ **[Helm](https://blog.sorrycc.com/release-helm)** - Daemon-based Agent runtime with workspace, session, issue, loop, cron and skill/plugin management
+- 📌 **[Qoder CLI](https://qoder.com/cli)** - Qoder's native way of working in the terminal
+- 🌐 **[Tiller](https://github.com/sorrycc/Tiller)** - macOS browser built on Chromium, with a native Swift/AppKit shell and a built-in agent panel that drives the browser
+- 📝 **[Mayoi](https://github.com/sorrycc/Mayoi)** - A small, fast code editor written in Go, with a native GPU-drawn UI (no webview, no Electron)
 - 🔀 **[codexthropic](https://blog.sorrycc.com/release-codexthropic)** - Local proxy that lets Claude Code talk to OpenAI's Codex (GPT-5.5) backend
 - ⚡ **[Shun](https://blog.sorrycc.com/release-shun)** - macOS menu bar tool to switch apps via global hotkeys
 - ⌨️ **[Sokki](https://blog.sorrycc.com/release-sokki)** - macOS menu bar text expansion tool
@@ -26,6 +28,7 @@
 
 ### Legacy Work
 
+- ⛵ **[Helm](https://blog.sorrycc.com/release-helm)** - Daemon-based Agent runtime with workspace, session, issue, loop, cron and skill/plugin management
 - 🤖 **[Neovate Code](https://github.com/neovateai/neovate-code)** - AI coding agent that works with your codebase
 - 🖥️ **[Neovate Desktop](https://github.com/neovateai/neovate-desktop)** - Desktop app for Neovate Code
 - 🚀 **[UmiJS](https://github.com/umijs/umi)** - Pluggable enterprise-level React framework
