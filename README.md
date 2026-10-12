@@ -10,15 +10,19 @@
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-> Building frontend infra and AI dev tools. 15+ years shipping, still curious.
+> Creator of UmiJS, dva and Mako. 15+ years shipping, now building agent tooling at Qoder.
 
 ## Current Projects
 
+**At Qoder**
+
 - 📌 **[Qoder CLI](https://qoder.com/cli)** - Qoder's native way of working in the terminal
+
+**On my own time**
+
 - 🌐 **[Tiller](https://github.com/sorrycc/Tiller)** - macOS browser built on Chromium, with a native Swift/AppKit shell and a built-in agent panel that drives the browser
 - 📝 **[Mayoi](https://github.com/sorrycc/Mayoi)** - A small, fast code editor written in Go, with a native GPU-drawn UI (no webview, no Electron)
 - 🔀 **[codexthropic](https://blog.sorrycc.com/release-codexthropic)** - Local proxy that lets Claude Code talk to OpenAI's Codex (GPT-5.5) backend
@@ -26,7 +30,7 @@
 - ⌨️ **[Sokki](https://blog.sorrycc.com/release-sokki)** - macOS menu bar text expansion tool
 - 📰 **[NewsNow](https://github.com/sorrycc/newsnow)** - Read the world's trending news in one glance
 
-### Legacy Work
+### Previous Projects
 
 - ⛵ **[Helm](https://blog.sorrycc.com/release-helm)** - Daemon-based Agent runtime with workspace, session, issue, loop, cron and skill/plugin management
 - 🤖 **[Neovate Code](https://github.com/neovateai/neovate-code)** - AI coding agent that works with your codebase
@@ -35,6 +39,8 @@
 - ⚡ **[Mako](https://github.com/umijs/mako)** - Rust-based web bundler, fast and production-ready
 - 📦 **[Father](https://github.com/umijs/father)** - NPM library toolkit based on Rollup, esbuild and Babel
 - 🐉 **[dva](https://github.com/dvajs/dva)** - Lightweight React + Redux + Saga framework
+
+→ [More on GitHub](https://github.com/sorrycc?tab=repositories)
 
 ## GitHub Activity
 
@@ -49,6 +55,8 @@
 - [655 - 《Anthropic 反蒸馏机制》](https://blog.sorrycc.com/anthropic-anti-distillation)
 - [654 - 《Deep Research：Loop Engineering 最佳实践》](https://blog.sorrycc.com/deepresearch-loop-engineering)
 <!-- BLOG-POST-LIST:END -->
+
+→ [More posts](https://blog.sorrycc.com)
 
 ## Connect
 
