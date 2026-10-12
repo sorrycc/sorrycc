@@ -23,8 +23,8 @@
 
 **On my own time**
 
-- 🌐 **[Tiller](https://github.com/sorrycc/Tiller)** - macOS browser built on Chromium, with a native Swift/AppKit shell and a built-in agent panel that drives the browser
-- 📝 **[Mayoi](https://github.com/sorrycc/Mayoi)** - A small, fast code editor written in Go, with a native GPU-drawn UI (no webview, no Electron)
+- ⛵ **[Tiller](https://github.com/sorrycc/Tiller)** - macOS browser built on Chromium, with a native Swift/AppKit shell and a built-in agent panel that drives the browser
+- 💻 **[Mayoi](https://github.com/sorrycc/Mayoi)** - A small, fast code editor written in Go, with a native GPU-drawn UI (no webview, no Electron)
 - 🔀 **[codexthropic](https://blog.sorrycc.com/release-codexthropic)** - Local proxy that lets Claude Code talk to OpenAI's Codex (GPT-5.5) backend
 - ⚡ **[Shun](https://blog.sorrycc.com/release-shun)** - macOS menu bar tool to switch apps via global hotkeys
 - ⌨️ **[Sokki](https://blog.sorrycc.com/release-sokki)** - macOS menu bar text expansion tool
