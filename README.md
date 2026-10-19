@@ -32,10 +32,10 @@
 - ⚡ **[Shun](https://blog.sorrycc.com/release-shun)** - macOS menu bar tool to switch apps via global hotkeys
 - ⌨️ **[Sokki](https://blog.sorrycc.com/release-sokki)** - macOS menu bar text expansion tool
 - 📰 **[NewsNow](https://github.com/sorrycc/newsnow)** - Read the world's trending news in one glance
-- 🔀 **[codexthropic](https://blog.sorrycc.com/release-codexthropic)** - Local proxy that lets Claude Code talk to OpenAI's Codex (GPT-5.5) backend
 
 ### Previous Projects
 
+- 🔀 **[codexthropic](https://blog.sorrycc.com/release-codexthropic)** - Local proxy that lets Claude Code talk to OpenAI's Codex (GPT-5.5) backend
 - ⛵ **[Helm](https://blog.sorrycc.com/release-helm)** - Daemon-based Agent runtime with workspace, session, issue, loop, cron and skill/plugin management
 - 🤖 **[Neovate Code](https://github.com/neovateai/neovate-code)** - AI coding agent that works with your codebase
 - 🖥️ **[Neovate Desktop](https://github.com/neovateai/neovate-desktop)** - Desktop app for Neovate Code
