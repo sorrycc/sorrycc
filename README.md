@@ -50,18 +50,6 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/sorrycc)
 
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [657 - 《如何 setup new mac》](https://blog.sorrycc.com/setup-new-mac)
-- [888 - 《我怎么用 AI 编程 2026.07》](https://blog.sorrycc.com/ai-coding-2026-07)
-- [656 - 《科学上网》](https://blog.sorrycc.com/gfw-2026)
-- [655 - 《Anthropic 反蒸馏机制》](https://blog.sorrycc.com/anthropic-anti-distillation)
-- [654 - 《Deep Research：Loop Engineering 最佳实践》](https://blog.sorrycc.com/deepresearch-loop-engineering)
-<!-- BLOG-POST-LIST:END -->
-
-→ [More posts](https://blog.sorrycc.com)
-
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@chenchengpro-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/chenchengpro)
