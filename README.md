@@ -26,10 +26,13 @@
 
 - ⛵ **[Tiller](https://github.com/sorrycc/Tiller)** - macOS browser built on Chromium, with a native Swift/AppKit shell and a built-in agent panel that drives the browser
 - 💻 **[Mayoi](https://github.com/sorrycc/Mayoi)** - A small, fast code editor written in Go, with a native GPU-drawn UI (no webview, no Electron)
-- 🔀 **[codexthropic](https://blog.sorrycc.com/release-codexthropic)** - Local proxy that lets Claude Code talk to OpenAI's Codex (GPT-5.5) backend
+- 🙋 **Ikaga** (WIP) - Sends permission prompts, questions and plans from Claude Code, Codex and Qoder CLI to your Mac and iPhone, and your answers back
+- 🖼️ **[Pinup](https://github.com/sorrycc/Pinup)** - macOS menu bar app that uploads images and copies the link
+- 🌐 **[Trot](https://github.com/sorrycc/Trot)** - Native macOS menu bar app that translates selected text, typed text and screenshots
 - ⚡ **[Shun](https://blog.sorrycc.com/release-shun)** - macOS menu bar tool to switch apps via global hotkeys
 - ⌨️ **[Sokki](https://blog.sorrycc.com/release-sokki)** - macOS menu bar text expansion tool
 - 📰 **[NewsNow](https://github.com/sorrycc/newsnow)** - Read the world's trending news in one glance
+- 🔀 **[codexthropic](https://blog.sorrycc.com/release-codexthropic)** - Local proxy that lets Claude Code talk to OpenAI's Codex (GPT-5.5) backend
 
 ### Previous Projects
 
